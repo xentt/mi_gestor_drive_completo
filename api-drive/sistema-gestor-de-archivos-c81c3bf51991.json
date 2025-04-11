@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "sistema-gestor-de-archivos",
+  "private_key_id": "c81c3bf51991d5ec4bfe6f9628ba33e3ca64d007",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDdEVImYI5qd9TZ\nU96BKysqPFCS1QsxXuW9ynXQkFD60jyzgTNIqZW3bcyHKYnn9SJQtCqQcaF1ctUm\nHj5LBNrXU80NL3ZNnXAaoHfP2gqPNTxCXpk0qwG/VS+oDsw+g6yMg4IS9E1x+51F\nTz5U7+D9c9rAspGZrCwF8n1700+aySORnu8+9X/YoMCfq0P39uJAHe7Y+TrSDcpI\nfDB4CQ/bNWcNscA00r910F0D9dENw4yFZ6B6uvLyph+fpBYy++4TLzwohAJcVcvp\nppIL32b2zv9j7YJbhDz0p4GPAxMVDhJEk4CZ+K6BCtn6lEv2D7uz8JsgOcVn8zV+\noCsJ60VXAgMBAAECggEAai3XFLq8vJN4xrebP9Qxo9QbaSLtgNWRKDLVmoqucoJH\nCHquXKCjWdphaawAYkphpHyckwsY3zX7/ZZ6GgMnb1P/QW2B925+eTOIyGr0Nmt9\n2WzhTiQyryjlvmT5Ia+R0V2avKrdhbkyBSe2Cwq6OFIMiBBckYBaFrMtJSvN6Mv9\nf1YFT+BkUS0q4AA6ps9fD2tYECYA6yKKQftEsB3N0bFyXb9XH9a3/it9RHWZsLTp\nYoXWDkII4/csnEl1x10MxE18GAbP7DK10Lxr13abIiOFjJSHLYceoPMbry8DWpjn\nWnAJSSOjsYZCYBbUwdZ6+dEyr7z2O8i5WO+7k3lwhQKBgQDxJUv97AiHv86tTl29\n05nu4EFNDFrazPlzWSfr3c1hjnpbp8E+levOkYYpr2YkkQrwnTIVCLOHViePFn6F\nIlB/SxJQ4a5H0RJZ/43Ai2fmbnqwXGku+o237MMK2a5ZMvvFnQ7OmEZFyAW5ZvlQ\ny4sbHjmqBnpJ9DTbRbzzBbprEwKBgQDqr2g9wsUukuwkATTHWsJTtpIFnPW+wOkk\npDoHu8ftZeU5isZ5GJkzc5HJLnfiVw2i+ZluWHRmCUlHJU3Oo9JeD9aNB5x+m/q1\nkD5xsLkg/ZUmYojQGlK7Z/eekZ9Q0qEYbUa3srpkjJ2IVPkbdLpWd9+9a9ffahLy\n3HpiCGMhLQKBgQCL5GogRURxk+kPCu5AyDd9p2TakLdIRS7VJryNDWAvHxuGflwR\ntaFVdYCSQCmOPwJMsbSzFRgpA+bxEEiXbV+raN6YQ0P6b6Qox6LxNy4wNJlCJGn0\nke+S6mv/qGaHYpdCfalwWlAx/Sas9rrdjycEtVUYeKeKrXvYVK2XghQyNwKBgQDk\nc2OR22t+7t6YHeR2u063lt2GQUinK7rIRGWI6a6w1aPR49lYQC3B/BpKMMXauss3\nfqlw1QJZ4WhHrXSUVryNe/Vqy6H3TXc8DvH6UgGkr7Tk7L4pdbZbX9WXskHXt3HC\nCX3xjDYNcyRWdgEYTQSm74IJLlWx0dwoNZ+clnWI8QKBgQDTCsWRLMGtJmig8yo4\nBqPEIuJUOBF6MeKejyv+6feUMfM8eLtRfIvucL27ZlohzYIVWVgE0dxAwlWv627E\nF/hEtKI+Z6A12TzHU988yqEeRaKDSLlox2HApVhyvDjn+9tlN1zKiE3ubiTsxeB9\ngFBhxVNlC83fitHAMrhmYWQtYQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "almacenamiento@sistema-gestor-de-archivos.iam.gserviceaccount.com",
+  "client_id": "103085001289806662583",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/almacenamiento%40sistema-gestor-de-archivos.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
